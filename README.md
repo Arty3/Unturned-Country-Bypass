@@ -11,6 +11,10 @@ however the actual loader is a different program, you can find it in the release
 
 Note: Use at your own risk, you will not get banned, but it is still not intended behavior.
 
+## ⚠ New Version
+
+#### You can find a much improved version with extra features here: [Unturned-Skins-Mod](https://github.com/Arty3/Unturned-Skins-Mod)
+
 ## 🛠 Requirements
 
 - [GoLang](https://go.dev/)
